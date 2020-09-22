@@ -1,4 +1,6 @@
 applications:
-- name: zcg
-  memory: 256M
-     path: multi-v2ray/go.sh
+-  path: .
+name: zcg
+random-route: true
+memory: 256M
+    
